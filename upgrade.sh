@@ -1,10 +1,6 @@
 #!/bin/bash
 
 paru -Syyu
-cd nvidia-all
-echo "nvidia:"
-git pull
-cd
 cd anime-girls
 echo "anime girls:"
 git pull
