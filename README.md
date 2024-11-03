@@ -22,6 +22,8 @@ fetch: fastfetch\
 wallpaper: swww + mpvpaper\
 packages: pacman + aur, nix, flatpak\
 
+pacman repositories: cachyos, chaotic aur, blackarch, oglo
+
 GTK theme: rose pine\
 font: JetBrainsMono Nerd Font Regular 11\
 
