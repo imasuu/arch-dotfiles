@@ -43,6 +43,8 @@ alias sudoedit="doas rnano"
 
 alias fucking="sudo"
 
+alias pacman="sudo pacman"
+
 alias yay="paru"
 
 alias neofetch="fastfetch"
