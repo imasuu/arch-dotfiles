@@ -4,7 +4,7 @@
   "menuThemeColors": {},
   "darkMenuThemeColors": {},
   "enableDarkModeForMenuThemes": false,
-  "sidebarVisible": true,
+  "sidebarVisible": false,
   "enableVersionCheck": true,
   "zoomFactor": 1
 }

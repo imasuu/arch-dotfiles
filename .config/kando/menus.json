@@ -19,73 +19,6 @@
             "angle": 0
           },
           {
-            "type": "submenu",
-            "data": {},
-            "name": "games",
-            "icon": "videogame_asset",
-            "iconTheme": "material-symbols-rounded",
-            "children": [
-              {
-                "type": "command",
-                "data": {
-                  "command": "prismlauncher"
-                },
-                "name": "prism",
-                "icon": "deployed_code",
-                "iconTheme": "material-symbols-rounded"
-              },
-              {
-                "type": "command",
-                "data": {
-                  "command": "ryujinx",
-                  "delayed": false
-                },
-                "name": "ryujinx",
-                "icon": "gamepad",
-                "iconTheme": "material-symbols-rounded"
-              },
-              {
-                "type": "command",
-                "data": {
-                  "command": "steam"
-                },
-                "name": "steam",
-                "icon": "steam",
-                "iconTheme": "simple-icons"
-              },
-              {
-                "type": "command",
-                "data": {
-                  "command": "heroic",
-                  "delayed": false
-                },
-                "name": "heroic",
-                "icon": "swords",
-                "iconTheme": "material-symbols-rounded"
-              },
-              {
-                "type": "command",
-                "data": {
-                  "command": "lunarclient",
-                  "delayed": false
-                },
-                "name": "lunar",
-                "icon": "shield_moon",
-                "iconTheme": "material-symbols-rounded"
-              },
-              {
-                "type": "command",
-                "data": {
-                  "command": "lutris",
-                  "delayed": false
-                },
-                "name": "lutris",
-                "icon": "window_closed",
-                "iconTheme": "material-symbols-rounded"
-              }
-            ]
-          },
-          {
             "type": "command",
             "data": {
               "command": "zen-browser"
@@ -101,35 +34,6 @@
             },
             "name": "neovim",
             "icon": "code",
-            "iconTheme": "material-symbols-rounded"
-          },
-          {
-            "type": "command",
-            "data": {
-              "command": "WEBKIT_DISABLE_DMABUF_RENDERER=1 __EGL_VENDOR_LIBRARY_FILENAMES=/usr/share/glvnd/egl_vendor.d/50_mesa.json orca-slicer",
-              "delayed": false
-            },
-            "name": "orca slicer",
-            "icon": "print",
-            "iconTheme": "material-symbols-rounded"
-          },
-          {
-            "type": "command",
-            "data": {
-              "command": "vesktop --enable-features=UseOzonePlatform --ozone-platform=wayland",
-              "delayed": false
-            },
-            "name": "discord",
-            "icon": "business_messages",
-            "iconTheme": "material-symbols-rounded"
-          },
-          {
-            "type": "command",
-            "data": {
-              "command": "spotify-launcher"
-            },
-            "name": "spotify",
-            "icon": "music_note",
             "iconTheme": "material-symbols-rounded"
           }
         ]

@@ -30,20 +30,7 @@ grub theme: seegson\
 sddm theme: sugar candy\
 
 programs:\
-lutris\
-heroic\
-steam\
-ryujinx\
-prism\
-lunar\
-FFXIV\
-bottles\
-wine\
-orca\
 ipfs\
-spotify\
-kicad\
-qemu/virt manager\
 github desktop\
 kde connect\
 libre office\
