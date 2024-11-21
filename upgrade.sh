@@ -1,6 +1,7 @@
 #!/bin/bash
 
-paru -Syyu
+paru -Syu
+hyprpm update -v -s
 cd anime-girls
 echo "anime girls:"
 git pull
