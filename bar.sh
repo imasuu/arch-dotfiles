@@ -1,4 +1,5 @@
 #!/bin/bash
 
-ags -q
-hyprctl dispatch exec ags
+agsv1 -q
+hyprctl dispatch exec agsv1
+
