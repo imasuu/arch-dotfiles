@@ -1,6 +1,6 @@
 #!/bin/bash
 
-script_dir=$(dirname "$(realpath "$0")")
+script_dir=$(dirname "$0")
 
 log_file="$script_dir/wallpaper.log"
 log_size_limit=1048576

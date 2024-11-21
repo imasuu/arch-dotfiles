@@ -1,6 +1,7 @@
 #!/bin/bash
 
-paru -Syyu
+paru -Syu
+hyprpm update -v -s
 cd nvidia-all
 echo "nvidia:"
 git pull
